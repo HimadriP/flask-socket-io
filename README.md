@@ -8,3 +8,4 @@ To run this application install the requirements in a virtual environment, run `
 If you prefer, you can also start the server using the Flask cli:
 
     $ FLASK_APP=chat.py flask run
+# flask-socket-io
